@@ -1,11 +1,12 @@
 {
-  "id": "dark",
+  "id": "Noibit",
   "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
-  "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "name": "The Noibit Team",
+  "contactMain": "Call <a href='tel:+420774337933'><span>(45) 80100100</span></a> or email us at",
+  "contactMail": "info@noibit.com",
+  "slogan": "LED Noibit. LED Wall. Digital Signage.",
+  "logoUrl": "/assets/noibit.jpg",
+  "logoAlt": "Noibit Logo",
+  "website": "https://noibit.com"
 }
+ 

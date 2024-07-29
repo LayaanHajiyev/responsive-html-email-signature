@@ -1,13 +1,12 @@
 {
-  "id": "light",
+  "id": "noibit light",
   "signature": "Yours truly,",
-  "name": "The light mail team",
+  "name": "The Noibit Team",
   "welcome": "Hi there,",
-  "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
-  "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
-  "contactMail": "info@light.dk",
-  "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
-  "logoUrl": "/assets/light.png",
-  "logoAlt": "light logo",
-  "website": "http://light.dk"
+  "contactMain": "Call <a href='tel:+420774337933'><span>80100100</span></a> or email us at",
+  "contactMail": "info@noibit.com",
+  "contactSecondary": "<a href='https://mapurl.com'><span>Samcova 1 Street,Prague 1</span></a>",
+  "logoUrl": "/assets/noibit.jpg",
+  "logoAlt": "Noibit Logo",
+  "website": "https://noibit.com"
 }
